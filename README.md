@@ -4,15 +4,14 @@
 <a href="mailto:g.shetty@outlook.in" title="Connect via Email">
   <img align="left" height="20px" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/gautamshetty_/" title="Instagram Profile">
+<a href="https://www.instagram.com/gautamshetty_/" title="My pics and Stuff">
   <img align="left" height="20px" src="https://img.shields.io/badge/gautamshetty_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/gautam-shetty?style=social">
+<a href="https://github.com/gautam-shetty" title="Follow me on GitHub">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/gautam-shetty?style=social">
+</a>
 
 >Hey, I’m @gautam-shetty . Im a software engineer. I code. 
-
-<br />
-<br />
 
 **Languages and Tools:**
 <p>
@@ -26,6 +25,6 @@
 
 
 <p> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-shetty&theme=graywhite" /> &nbsp;
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-shetty&layout=compact" />
+  <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-shetty&theme=graywhite" hidden="hidden" /> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-shetty&layout=compact" hidden="hidden" />
 <p>
