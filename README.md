@@ -11,11 +11,12 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/gautam-shetty?style=social">
 </a>
 
->Hey, I’m @gautam-shetty . Im a software engineer. I code. 
+>Hey, I’m @gautam-shetty . Im a software engineer. I learn & code. 
 
 **Languages and Tools:**
 <p>
   <img height="40"  style="vertical-align:down; margin:4px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
+  <img height="40"  style="vertical-align:down; margin:4px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
   <img height="40"  style="vertical-align:down; margin:4px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img height="40"  style="vertical-align:down; margin:4px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
   <img height="40"  style="vertical-align:down; margin:4px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png">
